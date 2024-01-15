@@ -1,6 +1,6 @@
 # Banking app
 # App Home Screen
-  -Bottomm Navigation Account 
+  -Bottom Navigation Account 
 # Light Mode 
   ![home](https://github.com/azewudie/BankAccount/assets/78126519/b086e798-5b6c-44a6-92fe-094c029c1a48)
 
