@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BankAccount</string>
+<!--    App Home Screen -->
+    <string name="account">Account</string>
+    <string name="cards">Cards</string>
+    <string name="checking">Checking</string>
+    <string name="checking_amount">$323.24</string>
+    <string name="checking_user_name">Salvador</string>
+    <string name="my_family">My Family</string>
+    <string name="my_family_amount">$17.05</string>
+    <string name="my_family_name">Cynthia</string>
+    <string name="saving">Savings</string>
+    <string name="saving_amount">$250</string>
+    <string name="action">Actions</string>
+    <string name="transfer_to_family">Transfer to My Family</string>
+    <string name="transfer_to_savings">Transfer to Savings</string>
+    <string name="deposit_a_check">Deposit a Check</string>
+
+<!--    Checking Screen-->
+    <string name="account_number">Account Number: xxxx-0301</string>
+    <string name="last_day_transfer">December 24,2023 </string>
+    <string name="last_day_transfer_address">Orgullo Mexico,239 San Mateo Rd </string>
+    <string name="last_day_transfer_amount">$- 75.25 </string>
+    <string name="last_day_deposit">December 19,2023 </string>
+    <string name="last_day_deposit_address"> Paycheck - Cabrillo Farms</string>
+    <string name="last_day_deposit_amount">$750.25 </string>
+
+<!--    Transfer Screen-->
+    <string name="transfer_to_my_family">Transfer to My Family </string>
+    <string name="first_row_first_colum_amount">$10 </string>
+    <string name="first_row_second_colum_amount">$20 </string>
+    <string name="second_row_first_colum_amount">$50 </string>
+    <string name="second_row_second_colum_amount">$100 </string>
+
+
+
+
+
+</resources>
